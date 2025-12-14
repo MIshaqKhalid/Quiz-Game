@@ -57,8 +57,8 @@ iq.txt
 # ⚙️ How to Compile and Run
 **Prerequisites**
 You need a C++ compiler (like GCC/MinGW for Windows or Linux).
-**
-Compilation**
+
+**Compilation**
 Open your terminal or command prompt and run:
 
 **Bash**
@@ -125,4 +125,4 @@ Category Files: Ensure all category text files (science.txt, sports.txt) exist i
 
 Input Validation: The game handles basic integer validation, but entering characters where numbers are expected may require a restart in some edge cases.
 
-👨‍💻 Author
+👨‍💻 Muhammad Ishaq Khalid
